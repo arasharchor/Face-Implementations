@@ -1,0 +1,43 @@
+﻿Build started 10-Dec-15 9:38:31 PM.
+     1>Project "C:\Users\Pranav\Documents\Visual Studio 2013\Projects\FaceVerification\FaceVerification\FaceVerification.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Tesseract-OCR\include\tesseract" /I"C:\Program Files (x86)\Tesseract-OCR\include" /I"C:\Program Files (x86)\Tesseract-OCR\include\leptonica" /IC:\OpenCV\OPENCV2.4.10\opencv\build\include /IC:\OpenCV\OPENCV2.4.10\opencv\build\include\opencv /IC:\OpenCV\OPENCV2.4.10\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(81): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(82): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(83): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(89): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(198): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(206): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(229): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(263): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(264): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(288): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(289): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(301): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(314): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(333): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(334): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(335): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(352): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(353): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(354): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(367): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(478): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(482): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(496): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(500): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(592): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(596): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(611): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(615): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\pranav\documents\visual studio 2013\projects\faceverification\faceverification\main.cpp(390): warning C4101: 'sum' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pranav\Documents\Visual Studio 2013\Projects\FaceVerification\Debug\FaceVerification.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Tesseract-OCR\lib" /LIBPATH:C:\OpenCV\OPENCV2.4.10\opencv\build\x86\vc12\bin /LIBPATH:C:\OpenCV\OPENCV2.4.10\opencv\build\x86\vc12\lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib liblept168.lib liblept168d.lib libtesseract302.lib libtesseract302d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Pranav\Documents\Visual Studio 2013\Projects\FaceVerification\Debug\FaceVerification.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pranav\Documents\Visual Studio 2013\Projects\FaceVerification\Debug\FaceVerification.lib" /MACHINE:X86 Debug\main.obj
+         FaceVerification.vcxproj -> C:\Users\Pranav\Documents\Visual Studio 2013\Projects\FaceVerification\Debug\FaceVerification.exe
+     1>Done Building Project "C:\Users\Pranav\Documents\Visual Studio 2013\Projects\FaceVerification\FaceVerification\FaceVerification.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.50
